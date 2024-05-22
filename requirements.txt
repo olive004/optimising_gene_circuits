@@ -1,0 +1,14 @@
+diffrax==0.3.1
+ipykernel
+jax==0.4.25
+# jaxlib==0.4.25+cuda12.cudnn89 -f https://storage.googleapis.com/jax-releases/jax_cuda_releases.html 
+jaxtyping==0.2.24
+jupyter
+matplotlib
+notebook
+numpy
+optax==0.1.9
+pandas
+# -e git+https://github.com/olive004/synbio_morpher.git@a6ab067bd0b09e4cac4bb1ccca4624a6f521c024#egg=synbio_morpher
+# -i https://test.pypi.org/simple/ synbio-morpher
+seaborn
